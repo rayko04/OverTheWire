@@ -26,6 +26,18 @@
 22 to 23: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga 
 23 to 24: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 24 to 25: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+25 to 26: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+26 to 27: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
+27 to 28: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
+28 to 29: 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7	git log/git show
+29 to 30: qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL	git branch -a
+30 to 31: fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy	git tag
+31 to 32: 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K	git add, git commit, git push
+32 to 33: tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0      $0
+
+
+
+
 
 
 
